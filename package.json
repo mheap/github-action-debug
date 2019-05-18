@@ -1,0 +1,12 @@
+{
+  "name": "actions-debug",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "actions-toolkit": "^2.1.0",
+    "cli-table2": "^0.2.0"
+  }
+}
